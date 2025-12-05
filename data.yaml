@@ -1,0 +1,13 @@
+train: C:\Users\HP\Documents\my\vs\Cdataset\My First Project.v8-roboflow-instant-6--eval-.yolov8\train
+val: C:\Users\HP\Documents\my\vs\Cdataset\My First Project.v8-roboflow-instant-6--eval-.yolov8\valid
+test: C:\Users\HP\Documents\my\vs\Cdataset\My First Project.v8-roboflow-instant-6--eval-.yolov8\test
+
+nc: 11
+names: ['100new', '100old', '10new', '10old', '200', '2000', '20new', '20old', '500', '50new', '50old']
+
+roboflow:
+  workspace: aishwarya-4p7vv
+  project: my-first-project-lyysj
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/aishwarya-4p7vv/my-first-project-lyysj/dataset/8
